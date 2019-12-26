@@ -13,7 +13,7 @@ insert into task
 
 #### Task 4: List my tasks 
 
-#### Task 5: List tasks which should have been completed today.
+#### Task 5: List tasks which are pending.
 
 #### Task 6: Update Task status to completed
 
